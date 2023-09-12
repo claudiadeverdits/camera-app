@@ -78,7 +78,7 @@
                     "Video Screen.1567f19c-6ef1-4229-b765-46aa16787ad8"
                 ]
             },
-            "figmaComponents": null,
+            "figmaComponents": {},
             "description": null,
             "icon": null,
             "projectName": "Camera App",
@@ -115,7 +115,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
@@ -164,7 +164,7 @@
                     "ios": {
                         "usageDescriptions": {
                             "NSCameraUsageDescription": "",
-                            "NSMicrophoneUsageDescription": ""
+                            "NSPhotoLibraryUsageDescription": ""
                         }
                     }
                 },
